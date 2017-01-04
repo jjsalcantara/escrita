@@ -1,1 +1,3 @@
 primeira linha arquivo dois
+
+Linha dois acrescentada - primeira alteração
